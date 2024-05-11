@@ -49,7 +49,7 @@ En segundo lugar definimos la estructura de las tablas en un modelo relacional.
 
 ![EDR](https://github.com/datacanovas/Base-de-Datos-SQL-Restaurante-/assets/157279064/d440fa02-2967-4961-b844-f5d440398147)
 
-## 3. Creación de la base de datos, las tablas y la carga de datos.
+## 3. Creación de la base de datos, las tablas y la carga de datos.  ![Creación Base de Datos](https://github.com/datacanovas/Base-de-Datos-SQL-Restaurante-/blob/main/Queries.sql)
 
 Mediante código SQL crearemos toda la estructura que hemos diseñado en los anteriores puntos. 
 
@@ -83,6 +83,6 @@ Las consultas que vamos a realizar serán:
 
 ✅ Platos más populares entre los clientes que visitan el restaurante regularmente
 
-
+Si quieres acceder a las queries ![Consultas](https://github.com/datacanovas/Base-de-Datos-SQL-Restaurante-/blob/main/Queries.sql)
 
 
