@@ -1,10 +1,12 @@
-# Base-de-Datos-SQL-Restaurante-
+# Base de Datos SQL Restaurante
 
 # Introdución
 Esta base de datos está diseñada para almacenar información sobre los clientes, pedidos, menús y empleados del restaurante.
 
+El objetivo es poder responder a las preguntas de negocio de forma sencilla a través de las distintas queries.
 
 # Estructura de la Base de Datos
+
 El diseño de la base de datos incluye las siguientes entidades y relaciones:
 
 - Clientes: Información sobre los clientes del restaurante.
@@ -24,8 +26,6 @@ Los pedidos están asociados a un cliente y a un empleado.
 Los productos tienen un precio asociado.
 Los menús están compuestos por varios productos con sus respectivas cantidades.
 Los detalles de los pedidos incluyen los productos solicitados y sus cantidades.
-
-
 
 # Pasos a seguir para realizar el diseño de la base de datos
 
