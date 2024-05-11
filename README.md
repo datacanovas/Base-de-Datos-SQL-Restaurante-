@@ -1,5 +1,8 @@
 # Base de Datos SQL Restaurante
 
+![image](https://github.com/datacanovas/Base-de-Datos-SQL-Restaurante-/assets/157279064/5ed65660-f396-4043-810f-4c5929a520ac)
+
+
 # Introdución
 Esta base de datos está diseñada para almacenar información sobre los clientes, pedidos, menús y empleados del restaurante.
 
