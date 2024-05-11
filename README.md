@@ -21,10 +21,15 @@ El diseño de la base de datos incluye las siguientes entidades y relaciones:
 # Restricciones y Reglas de Negocio
 
 Cada cliente tiene un identificador único (ID).
+
 Cada empleado tiene un identificador único (ID).
+
 Los pedidos están asociados a un cliente y a un empleado.
+
 Los productos tienen un precio asociado.
+
 Los menús están compuestos por varios productos con sus respectivas cantidades.
+
 Los detalles de los pedidos incluyen los productos solicitados y sus cantidades.
 
 # Pasos a seguir para realizar el diseño de la base de datos
