@@ -48,7 +48,9 @@ En segundo lugar definimos la estructura de las tablas en un modelo relacional.
 
 ## 3. Creación de la base de datos, las tablas y la carga de datos.
 
-Mediante código SQL crearemos toda la estructura que hemos diseñado en los anteriores puntos. La carga de los datos la haremos de forma manual con las tablas de Clientes,Pedidos,Empleados,Platos y Menus  y mediante la carga de ficheros cargaremos las tablas Detalles_pedido,Platos_en_menu
+Mediante código SQL crearemos toda la estructura que hemos diseñado en los anteriores puntos. 
+
+La carga de los datos la haremos de forma manual con las tablas de Clientes,Pedidos,Empleados,Platos y Menus  y mediante la carga de ficheros cargaremos las tablas Detalles_pedido,Platos_en_menu
 
 ## 4. Consultas 
 
